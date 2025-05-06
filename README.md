@@ -2,8 +2,9 @@
 <h3 align="center">A passionate Full Stack Developer and Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Web+Developer;Laravel+Lover;Creative+UI%2FUX+Designer;Open+Source+Contributor&font=Fira%20Code&center=true&width=440&height=45&color=0BFFDA&vCenter=true&pause=1000" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Web+Developer;Laravel+Lover;Creative+UI%2FUX+Designer;Open+Source+Contributor;Pixel+Perfect+Design+Enthusiast;Crafting+Clean+Code+With+Style;Building+Web+Magic+Everyday;Always+Learning+Something+New&font=Fira%20Code&center=true&width=500&height=50&color=0BFFDA&vCenter=true&pause=1000" />
 </p>
+
 
 ---
 
@@ -14,22 +15,31 @@
 -  Currently learning everything about **Laravel, APIs, and advanced frontend animations**
 -  Fun fact: I love making my UIs smooth and immersive ✨
 
----
-
-##  Tech Stack
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" width="60" alt="html5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" width="60" alt="css3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="60" width="60" alt="bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" width="60" alt="javascript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" width="60" alt="php" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="60" width="60" alt="wordpress" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="60" width="60" alt="laravel" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" width="60" alt="github" />
+<p align="center">
+  <a href="https://sufi-7571.github.io/MY-Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Portfolio-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="My Portfolio" />
+  </a>
 </p>
 
 ---
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="75" alt="HTML5" style="margin: 30px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="75" alt="CSS3" style="margin: 30px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="75" alt="Bootstrap" style="margin: 30px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="75" alt="JavaScript" style="margin: 30px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="75" alt="PHP" style="margin: 30px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="75" alt="MySQL" style="margin: 30px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="75" alt="WordPress" style="margin: 30px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="75" alt="Laravel" style="margin: 30px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="75" alt="GitHub" style="background-color: white; border-radius: 5px; padding: 5px; margin: 10px;" />
+</p>
+
+---
+
+
 
 ## GitHub Stats
 
