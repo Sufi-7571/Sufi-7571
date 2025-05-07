@@ -75,7 +75,7 @@
   <tr>
     <td width="300" align="center" valign="top">
       <img src="https://via.placeholder.com/300x180.png?text=Portfolio" alt="Portfolio Website" style="border-radius:12px;"><br><br>
-      <b>🌐 Portfolio Website</b><br>
+      <b> Portfolio Website</b><br>
       <sub>Laravel · Custom CSS · GitHub Pages</sub><br><br>
       <a href="https://github.com/sufiyanmirza/portfolio" target="_blank">
         <img src="https://img.shields.io/badge/View%20on%20GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -83,7 +83,7 @@
     </td>
     <td width="300" align="center" valign="top">
       <img src="https://via.placeholder.com/300x180.png?text=Portfolio" alt="Portfolio Website" style="border-radius:12px;"><br><br>
-      <b>🌐 Portfolio Website</b><br>
+      <b> Portfolio Website</b><br>
       <sub>Laravel · Custom CSS · GitHub Pages</sub><br><br>
       <a href="https://github.com/sufiyanmirza/portfolio" target="_blank">
         <img src="https://img.shields.io/badge/View%20on%20GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -92,7 +92,7 @@
 
   <td width="300" align="center" valign="top">
       <img src="https://via.placeholder.com/300x180.png?text=Blog+Clone" alt="News Blog Clone" style="border-radius:12px;"><br><br>
-      <b>📰 News Blog Clone</b><br>
+      <b> News Blog Clone</b><br>
       <sub>Bootstrap · aioffice.io Design</sub><br><br>
       <a href="https://github.com/sufiyanmirza/news-blog-clone" target="_blank">
         <img src="https://img.shields.io/badge/View%20on%20GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -101,7 +101,7 @@
 
   <td width="300" align="center" valign="top">
       <img src="https://via.placeholder.com/300x180.png?text=Chat+App" alt="Chatting App" style="border-radius:12px;"><br><br>
-      <b>💬 Chatting App</b><br>
+      <b> Chatting App</b><br>
       <sub>Kotlin · Firebase Auth</sub><br><br>
       <a href="https://github.com/sufiyanmirza/kotlin-chat-app" target="_blank">
         <img src="https://img.shields.io/badge/View%20on%20GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
