@@ -50,50 +50,66 @@
 </p>
 
 ---
+## Connect with me
 
-## Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/sufiyan-mirza-0b83a1358/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://sufiyanmirza.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%2312100E?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-  <a href="mailto:sufiworkswith@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sufiyan-mirza-0b83a1358/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://sufi-7571.github.io/MY-Portfolio/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Portfolio-%2312100E?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="mailto:sufiworkswith@gmail.com" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
 
-##  Currently Learning
 
--  Deep Laravel architecture
--  API integrations & token auth
--  Scroll-based animations using JavaScript
+## Featured Projects
 
----
+<table>
+  <tr>
+    <td width="300" align="center" valign="top">
+      <img src="https://via.placeholder.com/300x180.png?text=Portfolio" alt="Portfolio Website" style="border-radius:12px;"><br><br>
+      <b>🌐 Portfolio Website</b><br>
+      <sub>Laravel · Custom CSS · GitHub Pages</sub><br><br>
+      <a href="https://github.com/sufiyanmirza/portfolio" target="_blank">
+        <img src="https://img.shields.io/badge/View%20on%20GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      </a>
+    </td>
+    <td width="300" align="center" valign="top">
+      <img src="https://via.placeholder.com/300x180.png?text=Portfolio" alt="Portfolio Website" style="border-radius:12px;"><br><br>
+      <b>🌐 Portfolio Website</b><br>
+      <sub>Laravel · Custom CSS · GitHub Pages</sub><br><br>
+      <a href="https://github.com/sufiyanmirza/portfolio" target="_blank">
+        <img src="https://img.shields.io/badge/View%20on%20GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      </a>
+    </td>
 
-##  Featured Projects
+  <td width="300" align="center" valign="top">
+      <img src="https://via.placeholder.com/300x180.png?text=Blog+Clone" alt="News Blog Clone" style="border-radius:12px;"><br><br>
+      <b>📰 News Blog Clone</b><br>
+      <sub>Bootstrap · aioffice.io Design</sub><br><br>
+      <a href="https://github.com/sufiyanmirza/news-blog-clone" target="_blank">
+        <img src="https://img.shields.io/badge/View%20on%20GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      </a>
+    </td>
 
-  <td align="center" width="300">
-    <img src="https://via.placeholder.com/300x180.png?text=Portfolio" alt="Portfolio Project" width="100%" style="border-radius:10px;"><br><br>
-    <b>Portfolio Website</b><br>
-    Laravel · Custom CSS · GitHub Pages<br><br>
-    <a href="https://github.com/sufiyanmirza/portfolio"><img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
-  </td>
-</tr>
+  <td width="300" align="center" valign="top">
+      <img src="https://via.placeholder.com/300x180.png?text=Chat+App" alt="Chatting App" style="border-radius:12px;"><br><br>
+      <b>💬 Chatting App</b><br>
+      <sub>Kotlin · Firebase Auth</sub><br><br>
+      <a href="https://github.com/sufiyanmirza/kotlin-chat-app" target="_blank">
+        <img src="https://img.shields.io/badge/View%20on%20GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<tr>
-  <td align="center" width="300">
-    <img src="https://via.placeholder.com/300x180.png?text=Blog+Clone" alt="Blog Clone" width="100%" style="border-radius:10px;"><br><br>
-    <b>News Blog Clone</b><br>
-    Bootstrap · aioffice.io Design<br><br>
-    <a href="https://github.com/sufiyanmirza/news-blog-clone"><img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
-  </td>
-
-  <td align="center" width="300">
-    <img src="https://via.placeholder.com/300x180.png?text=Chat+App" alt="Chat App" width="100%" style="border-radius:10px;"><br><br>
-    <b>Chatting App</b><br>
-    Kotlin · Firebase Auth<br><br>
-    <a href="https://github.com/sufiyanmirza/kotlin-chat-app"><img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
-  </td>
-</tr>
 
 
 ---
