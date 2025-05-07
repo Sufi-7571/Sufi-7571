@@ -74,7 +74,7 @@
 <table>
   <tr>
     <td width="300" align="center" valign="top">
-      <img src="https://via.placeholder.com/300x180.png?text=Portfolio" alt="Portfolio Website" style="border-radius:12px;"><br><br>
+      <img src="https://github.com/user-attachments/assets/c961b4c8-2bd1-43d7-8bc8-c558944140c9" alt="Portfolio Website" style="border-radius:12px;"><br><br>
       <b> Portfolio Website</b><br>
       <sub>Laravel · Custom CSS · GitHub Pages</sub><br><br>
       <a href="https://github.com/sufiyanmirza/portfolio" target="_blank">
@@ -82,7 +82,7 @@
       </a>
     </td>
     <td width="300" align="center" valign="top">
-      <img src="https://via.placeholder.com/300x180.png?text=Portfolio" alt="Portfolio Website" style="border-radius:12px;"><br><br>
+      <img src="https://github.com/user-attachments/assets/dfd1914c-8378-466e-9b9d-260650ba8534" height="110" width="250" alt="Portfolio Website" style="border-radius:12px;"><br><br>
       <b> Portfolio Website</b><br>
       <sub>Laravel · Custom CSS · GitHub Pages</sub><br><br>
       <a href="https://github.com/sufiyanmirza/portfolio" target="_blank">
