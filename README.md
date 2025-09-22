@@ -81,7 +81,7 @@ I'm a passionate **Full Stack Developer** specializing in **Laravel** and modern
 <table>
 <tr>
 <td width="300" align="center" valign="top">
-<img src="https://github.com/user-attachments/assets/c961b4c8-2bd1-43d7-8bc8-c558944140c9" alt="Portfolio Website" width="250" height="150" style="border-radius:12px; object-fit: cover;"><br><br>
+<img src="https://github.com/user-attachments/assets/c961b4c8-2bd1-43d7-8bc8-c558944140c9" alt="GIGC WEBSITE" width="250" height="150" style="border-radius:12px; object-fit: cover;"><br><br>
 <b> GIGC Website</b><br>
 <sub> Wordpress</sub><br><br>
 <a href="https://gigcfsd.edu.pk/" target="_blank">
@@ -93,7 +93,7 @@ I'm a passionate **Full Stack Developer** specializing in **Laravel** and modern
 
 <td width="300" align="center" valign="top">
 <img src="https://github.com/user-attachments/assets/dfd1914c-8378-466e-9b9d-260650ba8534" alt="Portfolio Website" width="250" height="150" style="border-radius:12px; object-fit: cover;"><br><br>
-<b>📰 News Blog Clone</b><br>
+<b>💒 </b><br>
 <sub>Bootstrap · aioffice.io Design</sub><br><br>
 <a href="https://github.com/sufiyanmirza/news-blog-clone" target="_blank">
 <img src="https://img.shields.io/badge/View%20Code-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
