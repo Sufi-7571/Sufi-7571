@@ -61,14 +61,14 @@ I'm a passionate **Full Stack Developer** specializing in **Laravel** and modern
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sufiyanmirza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufiyanmirza&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sufi-7571&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sufi-7571&layout=compact&theme=tokyonight"/>
 
 </div>
 
 <div align="center">
   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sufiyanmirza&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sufi-7571&theme=tokyonight)
 
 </div>
 
@@ -150,7 +150,7 @@ I'm a passionate **Full Stack Developer** specializing in **Laravel** and modern
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sufiyanmirza&theme=tokyo-night&hide_border=true&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sufi-7571&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
