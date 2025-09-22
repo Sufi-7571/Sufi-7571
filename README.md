@@ -1,120 +1,183 @@
-<h1 align="center">Hi 👋, I'm Sufiyan Mirza</h1>
-<h3 align="center">A passionate Full Stack Developer and Tech Enthusiast</h3>
+# 👋 Hello, I'm Sufiyan Mirza
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Web+Developer;Laravel+Lover;Creative+UI%2FUX+Designer;Open+Source+Contributor;Pixel+Perfect+Design+Enthusiast;Crafting+Clean+Code+With+Style;Building+Web+Magic+Everyday;Always+Learning+Something+New&font=Fira%20Code&center=true&width=500&height=50&color=0BFFDA&vCenter=true&pause=1000" />
-</p>
+**Full Stack Developer | Laravel Specialist | UI/UX Enthusiast**
 
+<div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://sufi-7571.github.io/MY-Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sufiyan-mirza-0b83a1358/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sufiworkswith@gmail.com)
 
----
-
-## About Me
-
--  I’m currently building a full-fledged **LMS using Laravel 12 + Bootstrap**
--  I enjoy working on **real-world projects** that make a difference
--  Currently learning everything about **Laravel, APIs, and advanced frontend animations**
--  Fun fact: I love making my UIs smooth and immersive ✨
-
-<p align="center">
-  <a href="https://sufi-7571.github.io/MY-Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Portfolio-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="My Portfolio" />
-  </a>
-</p>
+</div>
 
 ---
 
-## Tech Stack
+## 🚀 About Me
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="75" alt="HTML5" style="margin: 30px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="75" alt="CSS3" style="margin: 30px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="75" alt="Bootstrap" style="margin: 30px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="75" alt="JavaScript" style="margin: 30px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="75" alt="PHP" style="margin: 30px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="75" alt="MySQL" style="margin: 30px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="75" alt="WordPress" style="margin: 30px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="75" alt="Laravel" style="margin: 30px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="75" alt="GitHub" style="background-color: white; border-radius: 5px; padding: 5px; margin: 10px;" />
-</p>
+I'm a passionate **Full Stack Developer** specializing in **Laravel** and modern web technologies. I believe in crafting pixel-perfect, performant applications that deliver exceptional user experiences.
+
+- 🔭 **Currently Building:** Full-featured LMS platform using Laravel 11 + Bootstrap 5
+- 🌱 **Learning:** Advanced Laravel features, RESTful APIs, and modern frontend animations
+- 💡 **Focus:** Creating scalable web applications with clean, maintainable code
+- ⚡ **Fun Fact:** I'm obsessed with smooth UI transitions and micro-interactions
 
 ---
 
+## 🛠️ Tech Stack
 
+### **Languages & Frameworks**
+<div align="center">
 
-## GitHub Stats
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sufiyanmirza&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sufiyanmirza&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufiyanmirza&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+</div>
+
+### **Frontend & Styling**
+<div align="center">
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+</div>
+
+### **Database & Tools**
+<div align="center">
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+</div>
 
 ---
-## Connect with me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sufiyan-mirza-0b83a1358/" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://sufi-7571.github.io/MY-Portfolio/" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Portfolio-%2312100E?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
-  </a>
-  &nbsp;
-  <a href="mailto:sufiworkswith@gmail.com" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sufiyanmirza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufiyanmirza&layout=compact&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sufiyanmirza&theme=tokyonight)
+
+</div>
 
 ---
 
+## 🎯 Featured Projects
 
-## Featured Projects
+<div align="center">
 
 <table>
-  <tr>
-    <td width="300" align="center" valign="top">
-      <img src="https://github.com/user-attachments/assets/c961b4c8-2bd1-43d7-8bc8-c558944140c9" alt="Portfolio Website" style="border-radius:12px;"><br><br>
-      <b> Portfolio Website</b><br>
-      <sub>Laravel · Custom CSS · GitHub Pages</sub><br><br>
-      <a href="https://github.com/sufiyanmirza/portfolio" target="_blank">
-        <img src="https://img.shields.io/badge/View%20on%20GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-      </a>
-    </td>
-    <td width="300" align="center" valign="top">
-      <img src="https://github.com/user-attachments/assets/dfd1914c-8378-466e-9b9d-260650ba8534" height="110" width="250" alt="Portfolio Website" style="border-radius:12px;"><br><br>
-      <b> Portfolio Website</b><br>
-      <sub>Laravel · Custom CSS · GitHub Pages</sub><br><br>
-      <a href="https://github.com/sufiyanmirza/portfolio" target="_blank">
-        <img src="https://img.shields.io/badge/View%20on%20GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-      </a>
-    </td>
+<tr>
+<td width="300" align="center" valign="top">
+<img src="https://github.com/user-attachments/assets/c961b4c8-2bd1-43d7-8bc8-c558944140c9" alt="Portfolio Website" width="250" height="150" style="border-radius:12px; object-fit: cover;"><br><br>
+<b> GIGC Website</b><br>
+<sub> Wordpress</sub><br><br>
+<a href="https://gigcfsd.edu.pk/" target="_blank">
+</a>
+<a href="https://github.com/sufiyanmirza/portfolio" target="_blank">
+<img src="https://img.shields.io/badge/View%20Code-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+</td>
 
-  <td width="300" align="center" valign="top">
-      <img src="https://via.placeholder.com/300x180.png?text=Blog+Clone" alt="News Blog Clone" style="border-radius:12px;"><br><br>
-      <b> News Blog Clone</b><br>
-      <sub>Bootstrap · aioffice.io Design</sub><br><br>
-      <a href="https://github.com/sufiyanmirza/news-blog-clone" target="_blank">
-        <img src="https://img.shields.io/badge/View%20on%20GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-      </a>
-    </td>
+<td width="300" align="center" valign="top">
+<img src="https://github.com/user-attachments/assets/dfd1914c-8378-466e-9b9d-260650ba8534" alt="Portfolio Website" width="250" height="150" style="border-radius:12px; object-fit: cover;"><br><br>
+<b>📰 News Blog Clone</b><br>
+<sub>Bootstrap · aioffice.io Design</sub><br><br>
+<a href="https://github.com/sufiyanmirza/news-blog-clone" target="_blank">
+<img src="https://img.shields.io/badge/View%20Code-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+</td>
 
-  <td width="300" align="center" valign="top">
-      <img src="https://via.placeholder.com/300x180.png?text=Chat+App" alt="Chatting App" style="border-radius:12px;"><br><br>
-      <b> Chatting App</b><br>
-      <sub>Kotlin · Firebase Auth</sub><br><br>
-      <a href="https://github.com/sufiyanmirza/kotlin-chat-app" target="_blank">
-        <img src="https://img.shields.io/badge/View%20on%20GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-      </a>
-    </td>
-  </tr>
+<td width="300" align="center" valign="top">
+<img src="https://via.placeholder.com/250x150/667eea/ffffff?text=Chat+App+UI" alt="Chatting App" width="250" height="150" style="border-radius:12px; object-fit: cover;"><br><br>
+<b>💬 Chatting App</b><br>
+<sub>Kotlin · Firebase Auth</sub><br><br>
+<a href="https://github.com/sufiyanmirza/kotlin-chat-app" target="_blank">
+<img src="https://img.shields.io/badge/View%20Code-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+</td>
+</tr>
 </table>
 
-
+</div>
 
 ---
 
-## 🧑‍💻 Let's Code Something Amazing!
+## 🏆 Achievements & Highlights
 
-> *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
+- 🚀 **50+** Repositories with clean, documented code
+- 💡 **3+ Years** of web development experience
+- 📱 **Mobile-First** approach in all web projects
+- 🎨 **Pixel-Perfect** UI implementation specialist
+- 🔧 **Laravel Artisan** - Deep expertise in Laravel ecosystem
 
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sufiyanmirza&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
+---
+
+## 💭 Development Philosophy
+
+```php
+<?php
+
+class Developer {
+    public function codePhilosophy(): string 
+    {
+        return "Clean code is not written by following a set of rules. 
+                Clean code is written by someone who cares about the craft.";
+    }
+    
+    public function myApproach(): array 
+    {
+        return [
+            'write_readable_code' => true,
+            'test_everything' => true,
+            'document_well' => true,
+            'never_stop_learning' => true
+        ];
+    }
+}
+```
+
+---
+
+## 🤝 Let's Connect & Collaborate!
+
+I'm always interested in collaborating on innovative projects and learning from fellow developers. Feel free to reach out if you want to:
+
+- 💼 Discuss potential collaborations
+- 🚀 Work on exciting Laravel projects  
+- 💡 Share knowledge about web development
+- ☕ Just have a chat about code!
+
+<div align="center">
+
+**📧 sufiworkswith@gmail.com**
+
+*"Building the web, one commit at a time."*
+
+---
+
+⭐️ **Found something interesting?** Star the repositories you like!
+
+</div>
