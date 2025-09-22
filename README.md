@@ -138,7 +138,6 @@ I'm a passionate **Full Stack Developer** specializing in **Laravel** and modern
 
 ## 🏆 Achievements & Highlights
 
-- 🚀 **50+** Repositories with clean, documented code
 - 💡 **3+ Years** of web development experience
 - 📱 **Mobile-First** approach in all web projects
 - 🎨 **Pixel-Perfect** UI implementation specialist
