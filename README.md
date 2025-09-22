@@ -85,26 +85,27 @@ I'm a passionate **Full Stack Developer** specializing in **Laravel** and modern
 <b> GIGC Website</b><br>
 <sub> Wordpress</sub><br><br>
 <a href="https://gigcfsd.edu.pk/" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-FF5722?style=for-the-badge&logo=safari&logoColor=white" alt="Live Demo" />
 </a>
-<a href="https://github.com/sufiyanmirza/portfolio" target="_blank">
-<img src="https://img.shields.io/badge/View%20Code-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<a href="https://gigcfsd.edu.pk/" target="_blank">
 </a>
 </td>
 
+
 <td width="300" align="center" valign="top">
-<img src="https://github.com/user-attachments/assets/dfd1914c-8378-466e-9b9d-260650ba8534" alt="Portfolio Website" width="250" height="150" style="border-radius:12px; object-fit: cover;"><br><br>
-<b>💒 </b><br>
+<img src="https://github.com/user-attachments/assets/dfd1914c-8378-466e-9b9d-260650ba8534" alt="Focus Photography " width="250" height="150" style="border-radius:12px; object-fit: cover;"><br><br>
+<b>💒 Focus Photography </b><br>
 <sub>Bootstrap · aioffice.io Design</sub><br><br>
-<a href="https://github.com/sufiyanmirza/news-blog-clone" target="_blank">
-<img src="https://img.shields.io/badge/View%20Code-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://www.focusphotography.ru/" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-FF5722?style=for-the-badge&logo=safari&logoColor=white" alt="Live Demo" />
 </a>
 </td>
 
 <td width="300" align="center" valign="top">
-<img src="https://via.placeholder.com/250x150/667eea/ffffff?text=Chat+App+UI" alt="Chatting App" width="250" height="150" style="border-radius:12px; object-fit: cover;"><br><br>
-<b>💬 Chatting App</b><br>
-<sub>Kotlin · Firebase Auth</sub><br><br>
-<a href="https://github.com/sufiyanmirza/kotlin-chat-app" target="_blank">
+<img src="https://github.com/user-attachments/assets/88b163e7-0d73-4370-bc02-e737557a8d92" alt="LMS" width="250" height="150" style="border-radius:12px; object-fit: cover;"><br><br>
+<b>📖 LMS </b><br>
+<sub>change me change me</sub><br><br>
+<a href="https://github.com/Sufi-7571/GIGC-LMS" target="_blank">
 <img src="https://img.shields.io/badge/View%20Code-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 </td>
