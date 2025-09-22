@@ -76,35 +76,54 @@ I'm a passionate **Full Stack Developer** specializing in **Laravel** and modern
 
 ## 🎯 Featured Projects
 
+### 🌐 WordPress Projects
+
 <div align="center">
 
 <table>
 <tr>
-<td width="300" align="center" valign="top">
-<img src="https://github.com/user-attachments/assets/c961b4c8-2bd1-43d7-8bc8-c558944140c9" alt="GIGC WEBSITE" width="250" height="150" style="border-radius:12px; object-fit: cover;"><br><br>
-<b> GIGC Website</b><br>
-<sub> Wordpress</sub><br><br>
+<td width="300" align="center" valign="top" style="vertical-align:top;">
+<img src="https://github.com/user-attachments/assets/c961b4c8-2bd1-43d7-8bc8-c558944140c9" 
+     alt="GIGC Website" 
+     style="border-radius:12px; object-fit:cover; width:100%; max-width:250px; height:150px;">
+<br>
+<b>🏛️ GIGC Website</b><br>
+<sub>WordPress</sub><br><br>
 <a href="https://gigcfsd.edu.pk/" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20Demo-FF5722?style=for-the-badge&logo=safari&logoColor=white" alt="Live Demo" />
-</a>
-<a href="https://gigcfsd.edu.pk/" target="_blank">
+<img src="https://img.shields.io/badge/Live%20Demo-FF5722?style=for-the-badge&logo=safari&logoColor=white" alt="Live Demo" />
 </a>
 </td>
 
-
-<td width="300" align="center" valign="top">
-<img src="https://github.com/user-attachments/assets/dfd1914c-8378-466e-9b9d-260650ba8534" alt="Focus Photography " width="250" height="150" style="border-radius:12px; object-fit: cover;"><br><br>
-<b>💒 Focus Photography </b><br>
-<sub>Bootstrap · aioffice.io Design</sub><br><br>
-  <a href="https://www.focusphotography.ru/" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20Demo-FF5722?style=for-the-badge&logo=safari&logoColor=white" alt="Live Demo" />
+<td width="300" align="center" valign="top" style="vertical-align:top;">
+<img src="https://github.com/user-attachments/assets/dfd1914c-8378-466e-9b9d-260650ba8534" 
+     alt="Focus Photography" 
+     style="border-radius:12px; object-fit:cover; width:100%; max-width:250px; height:150px;">
+<br>
+<b>📸 Focus Photography</b><br>
+<sub>WordPress</sub><br><br>
+<a href="https://www.focusphotography.ru/" target="_blank">
+<img src="https://img.shields.io/badge/Live%20Demo-FF5722?style=for-the-badge&logo=safari&logoColor=white" alt="Live Demo" />
 </a>
 </td>
+</tr>
+</table>
 
-<td width="300" align="center" valign="top">
-<img src="https://github.com/user-attachments/assets/88b163e7-0d73-4370-bc02-e737557a8d92" alt="LMS" width="250" height="150" style="border-radius:12px; object-fit: cover;"><br><br>
-<b>📖 LMS </b><br>
-<sub>change me change me</sub><br><br>
+</div>
+
+
+### 💻 Coding Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="300" align="center" valign="top" style="vertical-align:top;">
+<img src="https://github.com/user-attachments/assets/88b163e7-0d73-4370-bc02-e737557a8d92" 
+     alt="LMS" 
+     style="border-radius:12px; object-fit:cover; width:100%; max-width:250px; height:150px;">
+<br>
+<b>📖 Learning Management System</b><br>
+<sub>Laravel 11 · Bootstrap 5 · MySQL</sub><br><br>
 <a href="https://github.com/Sufi-7571/GIGC-LMS" target="_blank">
 <img src="https://img.shields.io/badge/View%20Code-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
@@ -113,6 +132,7 @@ I'm a passionate **Full Stack Developer** specializing in **Laravel** and modern
 </table>
 
 </div>
+
 
 ---
 
