@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Sufiyan Mirza
 
-**Full Stack Developer | Laravel Specialist | UI/UX Enthusiast**
+**Owner ITmate | Full Stack Developer | Laravel Artisan | WordPress Specialist |UI/UX Enthusiast**
 
 <div align="center">
   
