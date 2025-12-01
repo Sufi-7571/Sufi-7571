@@ -14,12 +14,12 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Developer** specializing in **Laravel** and modern web technologies. I believe in crafting pixel-perfect, performant applications that deliver exceptional user experiences.
+I develop reliable, production-focused web applications with a strong emphasis on Laravel, secure API design, and clean, maintainable architecture. My work centers on building systems that scale, perform well under real-world conditions, and provide a polished user experience.
 
-- 🔭 **Currently Building:** Full-featured LMS platform using Laravel 11 + Bootstrap 5
-- 🌱 **Learning:** Advanced Laravel features, RESTful APIs, and modern frontend animations
-- 💡 **Focus:** Creating scalable web applications with clean, maintainable code
-- ⚡ **Fun Fact:** I'm obsessed with smooth UI transitions and micro-interactions
+- 🧠 Strengths: Structured backend architecture, API-driven development, UI/UX consistency, and performance optimization
+- 🛠️ Core Stack: Laravel, MySQL, REST APIs, Bootstrap, JavaScript, PHP, Tailwind CSS, Pure
+- 🎯 Approach: Thoughtful engineering, maintainable code, and user-centric functionality
+- ⚡ **Fun Fact:** I'm obsessed with smooth UI transitions and micro-interactions, Well-structured Source Code and Performance Optimizations
 
 ---
 
