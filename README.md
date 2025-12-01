@@ -16,9 +16,9 @@
 
 I develop reliable, production-focused web applications with a strong emphasis on Laravel, secure API design, and clean, maintainable architecture. My work centers on building systems that scale, perform well under real-world conditions, and provide a polished user experience.
 
-- 🧠 Strengths: Structured backend architecture, API-driven development, UI/UX consistency, and performance optimization
-- 🛠️ Core Stack: Laravel, MySQL, REST APIs, Bootstrap, JavaScript, PHP, Tailwind CSS, Pure
-- 🎯 Approach: Thoughtful engineering, maintainable code, and user-centric functionality
+- 🧠 **Strengths:** Structured backend architecture, API-driven development, UI/UX consistency, and performance optimization
+- 🛠️ **Core Stack:** Laravel, MySQL, REST APIs, Bootstrap, JavaScript, PHP, Tailwind CSS, Pure
+- 🎯 **Approach:** Thoughtful engineering, maintainable code, and user-centric functionality
 - ⚡ **Fun Fact:** I'm obsessed with smooth UI transitions and micro-interactions, Well-structured Source Code and Performance Optimizations
 
 ---
